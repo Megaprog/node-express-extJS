@@ -1,2 +1,2 @@
 # node-express-extJS
-Sample Node project using ExpressJS and extJS frameworks
+Sample of the Node web project using Express and extJS frameworks

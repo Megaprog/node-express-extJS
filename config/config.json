@@ -1,0 +1,11 @@
+{
+  "port": 8080,
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "goods",
+    "user": "goods",
+    "password": "goods",
+    "ssl": false
+  }
+}

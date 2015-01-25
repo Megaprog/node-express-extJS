@@ -1,0 +1,1 @@
+module.exports.goodsService = require('./goods');
