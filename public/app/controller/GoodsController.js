@@ -79,7 +79,6 @@ Ext.define('Goods.controller.GoodsController', {
         var rs = sm.getSelection();
         this.getGoodsGridView().store.remove(rs[0]);
         this.getGoodsGridView().store.commitChanges();
-        this.getGoodsGridView().disable();
     },
 
     onChangeText: function () {
